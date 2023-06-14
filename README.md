@@ -48,7 +48,6 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 </div>
 
 ---
-d
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeonghwang94&theme=dark&background=000000)](https://git.io/streak-stats)
